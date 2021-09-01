@@ -16,10 +16,4 @@ or click on the image below
 
 [![EasyOCR](http://img.youtube.com/vi/ic4chj-iMaI/0.jpg)](http://www.youtube.com/watch?v=ic4chj-iMaI)
 
-
-### Want to know more about me?
-## Follow Me
-<a href="https://github.com/Hamza3226" target="_blank"><img class="ai-subscribed-social-icon"  width="30"></a>
-<a href="https://www.linkedin.com/in/iamhamza99/" target="_blank"><img class="ai-subscribed-social-icon"  width="30"></a>
-
 <h3 align="center">Show your support by starring the repository 🙂</h3>
